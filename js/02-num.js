@@ -25,3 +25,7 @@ console.log(nesamone);
 
 const puseZodzio = 'labas' / 2;
 console.log(puseZodzio);
+
+console.log(Math.sqrt(81));       // kvadratine saknis
+console.log(Math.pow(2,3));       // kelimas laipsniu
+console.log(2 ** 3);              // kelimas laipsniu
